@@ -256,7 +256,7 @@ class TransportApp:
             self.status_bar.config(text="Результаты экспортированы")
 
     def show_about(self):
-        messagebox.showinfo("О программе", "Лабораторная работа 12\nВариант: 1\nФИ: Крачко Андрей")
+        messagebox.showinfo("О программе", "Лабораторная работа 12\nВариант: 1\nФИ: Попкова Анна")
 
 
 if __name__ == "__main__":
